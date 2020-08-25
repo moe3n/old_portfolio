@@ -1,6 +1,7 @@
 body{
-	background: #F0F0F0;
+	background: #F0F0F0; 
 	color: #444444;
+	
 
 
 
@@ -22,22 +23,28 @@ h1{
 	color: #7c7c7c;
 	margin: auto;
 	font-family: monospace;
-	
+	background-color: black;
 	font-size: 25px;
 	padding: 25px;
-	background-color: black;
+	 
+	
 
 }
 #image{
 	padding: 25px;
 	background-color: black;
+	
 }
 #biography{
 	font-family: "Source Code Pro";
 	text-align: center;
-	padding: 100px;
-	background-color: #1E1F1C;
-	font-size: 40px;
+	margin: auto;
+	color: white;
+	padding: 190px;
+	/*background-color: #1E1F1C;*/
+	background: url(../images/precision.JPG);
+	font-size: 60px;
+
 
 }
 
