@@ -12,8 +12,25 @@ body{
 	
 	color: #444444;
 	padding: 25px;
+	width: 100%;
+	float: left;
+	background-color: #e3e3e3;
+	height: 120px
 
 }
+#name{
+	float: left;
+	width: 80%;
+	padding-top: 25px;
+}
+#avatar{
+	float: left;
+	border-radius: 50%;
+	width: 120px;
+}
+
+
+
 h1{
 	font-family: "Source Code Pro";
 	font-size: 40px
@@ -43,7 +60,7 @@ h1{
 	padding: 190px;
 	/*background-color: #1E1F1C;*/
 	background: url(../images/precision.JPG);
-	font-size: 50px;
+	font-size: 60px;
 
 
 }
