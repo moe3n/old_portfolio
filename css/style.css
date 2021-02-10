@@ -1,56 +1,96 @@
-body{
-	background: #F0F0F0;
-	color: #444444;
+body {
+    background: #F0F0F0;
+    color: #444444;
+
+
+}
+
+
+
+.name_container {
+
+    font-family: serif;
+    color: #444444;
+    color: black;
+    padding: 15px;
+    max-width: 90% 
+    float: left;
+    background-color: #e3e3e3;
+    height: 120px
+
+}
+
+.name {
+    float: left;
+    width: 60%;
+    
+
+}
+
+.avatar {
+    float: right;
+    border-radius: 50%;
+    width: 120px;
+}
+
+
+
+h1 {
+    font-family: 'Alata', serif;
+    font-size: 2rem;
+}
+
+.body_container {
+    text-align: justify;
+    color: #7c7c7c;
+    margin: auto;
+    font-family: monospace;
+    background-color: black;
+    font-size: 1.5rem;
+    padding: 15px;
 
 
 
 }
 
-#name_container{
-	
-	
-	color: #444444;
-	padding: 25px;
+.image {
+    /*padding: 0 25px 0 25px;*/
+    background-color: black;
+    line-height: 0;
+    padding: 15px;
+    
+}
+img{
+    max-width: 100%;
+}
 
-}
-h1{
-	font-family: "Source Code Pro";
-	font-size: 40px
-}
-#body_container{
-	text-align: justify;
-	color: #7c7c7c;
-	margin: auto;
-	font-family: monospace;
-	
-	font-size: 25px;
-	padding: 25px;
-	background-color: black;
+.biography {
+    font-family: "Source Code Pro";
+    text-align: center;
+    margin: auto;
+    color: white;
+    padding: 190px;
+    /*background-color: #1E1F1C;*/
+    background: url(../images/precision.JPG);
+    
+    background-size: cover;
+    max-width: 100% font-size: 60px;
 
-}
-#image{
-	padding: 25px;
-	background-color: black;
-}
-#biography{
-	font-family: "Source Code Pro";
-	text-align: center;
-	padding: 100px;
-	background-color: #1E1F1C;
-	font-size: 40px;
 
 }
 
-#social{
-	text-align: center;
-	margin: auto;
-	padding: 20px;
+.social {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
 
-	background-color: #e3e3e3;
-	color: black;
+    background-color: #e3e3e3;
+    color: black;
 }
-a{
-	text-decoration: none;
-	color: #89b23f;
+
+a {
+    text-decoration: none;
+    color: #89b23f;
 
 }
+
