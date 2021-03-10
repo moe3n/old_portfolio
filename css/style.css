@@ -72,9 +72,11 @@ img{
     padding: 190px;
     /*background-color: #1E1F1C;*/
     background: url(../images/precision.JPG);
-    
+
+    background-position: center;
     background-size: cover;
-    max-width: 100% font-size: 60px;
+    max-width: 100%; 
+    font-size: 1.5em;
 
 
 }
@@ -83,7 +85,8 @@ img{
     text-align: center;
     margin: auto;
     padding: 20px;
-
+    font-family: monospace;
+    font-size: 1.5rem;
     background-color: #e3e3e3;
     color: black;
 }

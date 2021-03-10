@@ -1,14 +1,7 @@
-.body_container{
-	padding-top: 20;
-}
-.image{
-	padding: 5px;
-}
-.social{
-	
-	
-}
-.biography{
-	padding: 50px;
+.image {
+  padding: 15px;
 }
 
+.biography {
+  padding: 50px;
+}
